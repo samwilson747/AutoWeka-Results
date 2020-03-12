@@ -1,0 +1,6 @@
+Feature Selection file contains results of relevent features on each set of files using selectkbest. File names are located
+on the bottom row.
+
+Best Fit Model -> using only the deteremined relevent features in each data set, each data set trained 17 ML models 
+to discover which model with its specific compilation flags offered the closest fit to the data, defined by the highest 
+area under the ROC.The model's ROC and other measurments were reported along with the resulting best fit model.
